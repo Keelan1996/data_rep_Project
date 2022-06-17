@@ -1,3 +1,13 @@
+# This Application is developed using the MERN technology stack:
+
+## The Application is a Shopping list App, more details are in the Wiki of this repo.
+
+### The following PDF is the spec we were giving for the project: file:///C:/Users/Dell/Desktop/3rd%20year%20misc/DR_Project_2021%20(14).pdf
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
