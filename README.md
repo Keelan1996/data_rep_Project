@@ -2,8 +2,9 @@
 
 ## The Application is a Shopping list App, more details are in the Wiki of this repo.
 
-### The following PDF is the spec we were giving for the project: file:///C:/Users/Dell/Desktop/3rd%20year%20misc/DR_Project_2021%20(14).pdf
+### The following PDF is the spec we were giving for the project: 
 
+[DR_Project_2021 (14).pdf](https://github.com/Keelan1996/data_rep_Project/files/8931568/DR_Project_2021.14.pdf)
 
 
 
